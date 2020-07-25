@@ -1,10 +1,9 @@
-# My keys
- keys/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+keys/
 # C extensions
 *.so
 
